@@ -9,6 +9,7 @@ theme = 'mini'
   bio = 'Computer Scientist'
   enableGoogleAnalytics = true
   showPowerBy = false
+  hiddenPostSummaryInHomePage = false
   [params.links]
     [params.links.publications]
       name = "Publications"
