@@ -8,4 +8,4 @@ author = "JPZ"
 enableComments = false
 +++
 
-Joan Puteri Zheng is a computer scientist based in San Bernardino County, California. She is currently a Researcher at SIFT and a home tutor with Professional Tutors of America.
+Joan Puteri Zheng is a computer scientist based in San Bernardino County, California. She is currently a PhD student studying Cybersecurity & Networking at Claremont Graduate University. She is also a Researcher at SIFT and a home tutor with Professional Tutors of America.
