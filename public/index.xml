@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joan Puteri Zheng</title>
+    <title>Home on Joan Puteri Zheng</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Joan Puteri Zheng</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Home on Joan Puteri Zheng</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/publications/</link>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
-      <description>&lt;!DOCTYPE html&gt; Publications Redirecting... </description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/portrait.JPG&#34; alt=&#34;Joan Puteri Zheng&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ms. Joan Puteri Zheng is a computer scientist based in San Bernardino County, California. Her B.S. in Computer Science was obtained at the University of Minnesota, Twin Cities in 2019. She is currently a PhD student studying Cybersecurity &amp;amp; Networking at Claremont Graduate University. Joan is also a Researcher at SIFT and a home tutor with Professional Tutors of America.&lt;/p&gt;&#xA;&lt;p&gt;The image above is an artificial reconstruction of the author.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;recent-papers&#34;&gt;Recent Papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=tnbQFeoAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Joan-Zheng&#34;&gt;ResearchGate&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;undergraduate-research&#34;&gt;Undergraduate Research&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://dreu2018.joanzheng.com&#34;&gt;CRA DREU Experience 2018&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://dreu2017.joanzheng.com&#34;&gt;CRA DREU Experience 2017&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

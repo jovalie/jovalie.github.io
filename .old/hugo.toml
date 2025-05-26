@@ -1,0 +1,19 @@
+baseURL = 'https://joanzheng.com'
+languageCode = 'en-us'
+title = 'Joan Puteri Zheng'
+google_analytics = 'G-W6QL28HDET'
+theme = 'mini'
+
+[params]
+  author = 'Joan Puteri Zheng'
+  bio = 'Computer Scientist'
+  enableGoogleAnalytics = true
+  showPowerBy = false
+  hiddenPostSummaryInHomePage = false
+  [params.links]
+    [params.links.about]
+      name = "About"
+      path = "/about"
+    [params.links.research]
+      name = "Research"
+      path = "/research"

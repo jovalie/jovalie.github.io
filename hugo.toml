@@ -1,16 +1,30 @@
-baseURL = 'https://joanzheng.com'
+baseURL = 'https://joanzheng.com/'
 languageCode = 'en-us'
 title = 'Joan Puteri Zheng'
-google_analytics = 'G-W6QL28HDET'
-theme = 'mini'
+theme = 'hugo-bearblog'
+author = "JPZ"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
 
 [params]
-  author = 'Joan Puteri Zheng'
-  bio = 'Computer Scientist'
-  enableGoogleAnalytics = true
-  showPowerBy = false
-  hiddenPostSummaryInHomePage = false
-  [params.links]
-    [params.links.publications]
-      name = "Publications"
-      path = "/publications"
+description = "Joan Puteri Zheng website."
+favicon = "favicon.ico"
+logo = "images/avatar.png"
+images = ["images/avatar.png"]
+css = ["static/css/main.css", "static/css/style.css"]
+title = "Joan Puteri Zheng"
+hideMadeWithLine = true
+
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
