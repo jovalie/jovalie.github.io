@@ -45,4 +45,4 @@ For those who prefer a darker interface, these themes offer a cool and immersive
 
 ![Calamity](/images/vscode-calamity.svg)
 
-Thank you for reading! I hope this article helped you discover a new favorite theme for your VSCode setup. Feel free to share your go-to themes or any hidden gems I should check out.
+Thank you for reading! I hope this article helped you discover a new favorite theme for your VSCode setup.
