@@ -6,6 +6,7 @@
     <description>Recent content in Home on Joan Puteri Zheng</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -20,6 +21,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
       <description>&lt;h2 id=&#34;recent-papers&#34;&gt;Recent Papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=tnbQFeoAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Joan-Zheng&#34;&gt;ResearchGate&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;undergraduate-research&#34;&gt;Undergraduate Research&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://dreu2018.joanzheng.com&#34;&gt;CRA DREU Experience 2018&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://dreu2017.joanzheng.com&#34;&gt;CRA DREU Experience 2017&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Favorite VSCode Color Themes</title>
+      <link>http://localhost:1313/favorite-vscode-color-themes/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/favorite-vscode-color-themes/</guid>
+      <description>&lt;p&gt;Choosing the right color theme for your VSCode setup can significantly improve your baseline coding experience. An enjoyable theme not only positively impacts your psychology but also enhances readability and reduces eye strain. Here are some of my current favorite VSCode color themes, split between light and dark options, with a bit more detail on what makes them stand out.&lt;/p&gt;&#xA;&lt;h3 id=&#34;light-themes&#34;&gt;Light Themes&lt;/h3&gt;&#xA;&lt;p&gt;When you prefer a brighter coding environment, these themes offer clean and vibrant aesthetics.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

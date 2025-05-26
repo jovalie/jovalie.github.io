@@ -1,7 +1,7 @@
 +++
 title = "Research"
 menu = "main"
-weight = 20
+weight = 4
 +++
 ## Recent Papers
 - [Google Scholar](https://scholar.google.com/citations?user=tnbQFeoAAAAJ)
